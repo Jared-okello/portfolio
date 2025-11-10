@@ -26,7 +26,8 @@ const initialProjects: Project[] = [
       "Successfully processed complex geological datasets",
       "Reduced manual survey time by 60% through automation"
     ],
-    githubLink: "https://github.com/Jared-okello/mineral-detection-ai",
+    liveLink: "insert link here if available",
+    githubLink: "https://github.com/Jared-okello/mineral-deposit-prediction",
     image: "/assets/mineral-detection-screenshot.png",
   },
   {
