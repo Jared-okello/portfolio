@@ -1,5 +1,5 @@
 import { useState } from "react";
-import mineralDetectionImage from '/assets/mineral-detection-screenshot.png';
+import mineralDetectionImage from '../assets/mineral-detection-screenshot.png';
 
 
 type Project = {
