@@ -1,4 +1,6 @@
 import { useState } from "react";
+import mineralDetectionImage from '/assets/mineral-detection-screenshot.png';
+
 
 type Project = {
   name: string;
@@ -28,7 +30,7 @@ const initialProjects: Project[] = [
     ],
     liveLink: "insert link here if available",
     githubLink: "https://github.com/Jared-okello/mineral-deposit-prediction",
-    image: "/assets/mineral-detection-screenshot.png",
+   image: mineralDetectionImage,
   },
   {
     name: "Automated Employee Leave Management System",
